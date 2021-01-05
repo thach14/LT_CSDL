@@ -56,6 +56,21 @@ namespace OnThiLTCSDL.DAO
             if (kq > 0) return true;
             return false;
         }
+        public bool SuaBanAn(int id, string name, int status, int capacity)
+        {
+            string query = String.Format("update [Table] set Name = N'{0}', Status = {1}, Capacity = {2} where ID = {3}",name,status,capacity,id);
+            string connectionString = "server=.; database=RestaurantManagement; Integrated Security = true;";
+            SqlConnection sqlConnection = new SqlConnection(connectionString);
+            SqlCommand sqlCommand = new SqlCommand();
+            sqlCommand.Connection = sqlConnection;
+            sqlCommand.CommandText = query;
+            sqlConnection.Open();
+            int kQ = sqlCommand.ExecuteNonQuery();
+            sqlConnection.Close();
+            sqlConnection.Dispose();
+            if (kQ == 0) return false;
+            return true;
+        }
     }
    
 }
