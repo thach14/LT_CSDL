@@ -1,0 +1,10 @@
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\bin\Debug\OnThiLTCSDL.exe.config
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\bin\Debug\OnThiLTCSDL.exe
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\bin\Debug\OnThiLTCSDL.pdb
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.frmMain.resources
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.Properties.Resources.resources
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.exe
+C:\Users\Owner\OneDrive\Desktop\Dev\LT_CSDL\OnThiLTCSDL\OnThiLTCSDL\obj\Debug\OnThiLTCSDL.pdb
