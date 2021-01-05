@@ -1,0 +1,10 @@
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\bin\Debug\phunz.exe.config
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\bin\Debug\phunz.exe
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\bin\Debug\phunz.pdb
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.frmBanAn.resources
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.Properties.Resources.resources
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.exe
+C:\Users\Owner\OneDrive\Desktop\phunz\phunz\phunz\obj\Debug\phunz.pdb
